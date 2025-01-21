@@ -2,6 +2,10 @@
 
 This repository contains assignments, codes, and solutions from the **CMPUT 566: Machine Learning** course, taken at the **University of Alberta** in Fall 2022. The course focuses on the theory and practice of constructing algorithms that learn from data, drawing on concepts from statistics, optimization, and computer science.
 
+<p align="center">
+  <img src="RL.png" alt="RL" width="500">
+</p>
+
 ---
 
 ## Course Overview
